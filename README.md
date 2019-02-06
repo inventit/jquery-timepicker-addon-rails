@@ -2,6 +2,8 @@
 
 [jQuery-Timepicker-Addon](https://github.com/trentrichardson/jQuery-Timepicker-Addon) for Rails.
 
+**This version is patched for fixing some bugs.**
+
 ## Installation
 
 Add this line to your application's Gemfile:
