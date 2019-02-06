@@ -4,8 +4,8 @@ module Jquery
   module Timepicker
     module Addon
       module Rails
-        class Error < StandardError; end
-        # Your code goes here...
+        class Engine < ::Rails::Engine
+        end
       end
     end
   end

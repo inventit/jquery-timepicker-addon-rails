@@ -1,4 +1,5 @@
 require "bundler/setup"
+require "rails/engine"
 require "jquery/timepicker/addon/rails"
 
 RSpec.configure do |config|
