@@ -20,8 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-In your `application.js` you will need to add this line:
+In your `application.js` you will need to add these lines:
 
+    //= require jquery.ui.all
     //= require jquery-ui-timepicker-addon
 
 ## Contributing
